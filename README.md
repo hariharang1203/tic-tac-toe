@@ -21,7 +21,7 @@ A responsive and interactive Tic Tac Toe game built using HTML, CSS, and JavaScr
 
 ## Demo
 
-You can play the game live [here](link_to_live_demo).
+You can play the game live https://hariharang1203.github.io/tic-tac-toe/.
 
 ## Getting Started
 
